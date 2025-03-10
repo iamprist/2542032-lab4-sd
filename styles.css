@@ -15,7 +15,7 @@ body {
 }
 
 input {
-    padding: auto;
+    padding: 10px 15px;
     width: 50%;
     margin-bottom: 10px;
 }
